@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899/12/30 00:00:00.000.592,=C:\ProjectWork\Android\Modules\DataModule.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.737,=C:\Users\Gordan\Documents\Embarcadero\Studio\Projects\ServerContainerUnit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.400,=C:\ProjectWork\Android\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.281,=C:\ProjectWork\Android\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.906,C:\ProjectWork\Android\Unit1.pas=C:\ProjectWork\Android\Units\BOUser.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.618,=C:\Users\Gordan\Documents\Embarcadero\Studio\Projects\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.752,C:\ProjectWork\Android\Forms\FormMain.fmx=C:\Users\Gordan\Documents\Embarcadero\Studio\Projects\Unit3.fmx</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.752,C:\ProjectWork\Android\Forms\FormMain.pas=C:\Users\Gordan\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.907,=C:\ProjectWork\Android\Units\UnitUtil.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.701,C:\ProjectWork\Android\Units\BOOrders.pas=C:\ProjectWork\Android\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.738,=C:\ProjectWork\Android\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.491,=C:\Users\Gordan\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.979,=C:\Users\Gordan\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.340,=C:\Users\Gordan\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.879,=C:\Users\Gordan\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.093,C:\ProjectWork\Android\AndoridClient.dproj=C:\Users\Gordan\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.059,=C:\ProjectWork\Android\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.126,C:\ProjectWork\Android\Unit1.pas=C:\ProjectWork\Android\Units\Androidapi.Misc.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.549,C:\ProjectWork\Android\Unit1.pas=C:\ProjectWork\Android\Units\AndroidApi.Network.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.404,=C:\Users\Gordan\Documents\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.920,=C:\ProjectWork\Android\Unit1.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="WKPBSGIBY9WSQ8NR"/>
+	</ActiveMobileDevice>
+</BorlandProject>
