@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.167,C:\ProjectWork\Server\Unit1.pas=C:\ProjectWork\Server\Units\BOSettings.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.478,C:\ProjectWork\Server\Unit1.pas=C:\ProjectWork\Server\Modules\DataModule.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.837,=C:\ProjectWork\Server\js\callbackframework-min.js</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.618,C:\ProjectWork\Server\js\callbackframework-min.js=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.795,=C:\ProjectWork\Server\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.243,=C:\ProjectWork\Server\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.896,C:\ProjectWork\Server\Unit1.pas=C:\ProjectWork\Server\Forms\SettingsForm.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.953,=C:\ProjectWork\Server\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.692,=C:\ProjectWork\Server\js\serverfunctionexecutor.js</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.683,C:\ProjectWork\Server\js\serverfunctions.js=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.742,=C:\ProjectWork\Server\js\serverfunctions.js</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.742,C:\ProjectWork\Server\Modules\SMUnit.dfm=C:\ProjectWork\Server\ServerMethodsUnit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.263,=C:\ProjectWork\Server\FormUnit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.248,C:\ProjectWork\Server\Modules\WMUnit.dfm=C:\ProjectWork\Server\WebModuleUnit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.680,C:\ProjectWork\Server\js\serverfunctionexecutor.js=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.765,=C:\ProjectWork\Server\js\base64-min.js</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.574,C:\ProjectWork\Server\js\base64-min.js=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.478,C:\ProjectWork\Server\Unit1.dfm=C:\ProjectWork\Server\Modules\DataModule.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.446,=C:\ProjectWork\Server\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.680,=C:\ProjectWork\Server\js\base64.js</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.786,=C:\ProjectWork\Server\js\json2-min.js</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.651,C:\ProjectWork\Server\js\json2-min.js=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.636,C:\ProjectWork\Server\js\callbackframework.js=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.721,=C:\ProjectWork\Server\js\callbackframework.js</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.597,C:\ProjectWork\Server\js\base64.js=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.910,C:\ProjectWork\Server\Forms\MainForm.pas=C:\ProjectWork\Server\FormUnit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.704,=C:\ProjectWork\Server\js\json2.js</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.910,C:\ProjectWork\Server\Forms\MainForm.dfm=C:\ProjectWork\Server\FormUnit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.564,=C:\ProjectWork\Server\WebModuleUnit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.896,C:\ProjectWork\Server\Unit1.dfm=C:\ProjectWork\Server\Forms\SettingsForm.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.742,C:\ProjectWork\Server\Modules\SMUnit.pas=C:\ProjectWork\Server\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.810,=C:\ProjectWork\Server\js\serverfunctionexecutor-min.js</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.664,C:\ProjectWork\Server\js\json2.js=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.248,C:\ProjectWork\Server\Modules\WMUnit.pas=C:\ProjectWork\Server\WebModuleUnit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.673,C:\ProjectWork\Server\js\serverfunctionexecutor-min.js=</Transaction>
+  </Transactions>
+</BorlandProject>

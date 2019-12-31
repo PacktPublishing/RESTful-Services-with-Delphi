@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899/12/30 00:00:00.000.798,C:\ProjectWork\Server WebBroker\ServerWB.dproj=C:\Users\Gordan\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.682,=C:\ProjectWork\Server\Modules\DataModule.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.737,=C:\Users\Gordan\Documents\Embarcadero\Studio\Projects\ServerContainerUnit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.618,=C:\Users\Gordan\Documents\Embarcadero\Studio\Projects\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.915,C:\ProjectWork\Server WebBroker\FormUnit1.pas=C:\Users\Gordan\Documents\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.318,C:\ProjectWork\Server WebBroker\WebModuleUnit1.dfm=C:\Users\Gordan\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.879,=C:\Users\Gordan\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.921,=C:\Users\Gordan\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.318,C:\ProjectWork\Server WebBroker\WebModuleUnit1.pas=C:\Users\Gordan\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.404,=C:\Users\Gordan\Documents\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.703,=C:\Users\Gordan\Documents\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.915,C:\ProjectWork\Server WebBroker\FormUnit1.dfm=C:\Users\Gordan\Documents\Embarcadero\Studio\Projects\FormUnit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899/12/30 00:00:00.000.888,C:\ProjectWork\Desktop\Unit1.pas=C:\ProjectWork\Desktop\Forms\FormNewOrder.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.580,=C:\ProjectWork\Desktop\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.018,C:\ProjectWork\Desktop\Unit1.pas=C:\ProjectWork\Desktop\Forms\FormAssignOrders.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.793,=C:\ProjectWork\Desktop\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.744,=C:\ProjectWork\Desktop\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.771,=C:\ProjectWork\Desktop\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.455,=C:\ProjectWork\Desktop\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.933,C:\ProjectWork\Desktop\Modules\ModuleData.dfm=C:\ProjectWork\Desktop\Unit1.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.548,C:\ProjectWork\Desktop\Forms\FormLogin.dfm=C:\ProjectWork\Desktop\Unit1.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.682,C:\ProjectWork\Desktop\Desktop.dproj=C:\Users\Gordan\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.018,C:\ProjectWork\Desktop\Unit1.dfm=C:\ProjectWork\Desktop\Forms\FormAssignOrders.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.548,C:\ProjectWork\Desktop\Forms\FormLogin.pas=C:\ProjectWork\Desktop\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.404,=C:\Users\Gordan\Documents\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.888,C:\ProjectWork\Desktop\Unit1.dfm=C:\ProjectWork\Desktop\Forms\FormNewOrder.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.803,=C:\ProjectWork\Desktop\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.340,=C:\Users\Gordan\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.958,=C:\Users\Gordan\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.094,C:\ProjectWork\Desktop\Forms\FormProducts.pas=C:\ProjectWork\Desktop\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.630,C:\ProjectWork\Desktop\Forms\FormUsers.dfm=C:\ProjectWork\Desktop\Unit1.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.630,C:\ProjectWork\Desktop\Forms\FormUsers.pas=C:\ProjectWork\Desktop\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.077,C:\ProjectWork\Desktop\Forms\FormOrders.dfm=C:\Users\Gordan\Documents\Embarcadero\Studio\Projects\Unit3.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.879,=C:\Users\Gordan\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.618,=C:\Users\Gordan\Documents\Embarcadero\Studio\Projects\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.427,C:\ProjectWork\Desktop\Units\UnitUtil.pas=C:\ProjectWork\Desktop\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.115,=C:\ProjectWork\Desktop\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.077,C:\ProjectWork\Desktop\Forms\FormOrders.pas=C:\Users\Gordan\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.094,C:\ProjectWork\Desktop\Forms\FormProducts.dfm=C:\ProjectWork\Desktop\Unit1.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.737,=C:\Users\Gordan\Documents\Embarcadero\Studio\Projects\ServerContainerUnit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.933,C:\ProjectWork\Desktop\Modules\ModuleData.pas=C:\ProjectWork\Desktop\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
