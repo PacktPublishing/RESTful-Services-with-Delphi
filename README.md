@@ -22,10 +22,9 @@ In this course, you’ll learn to use the Delphi IDE to construct a complete sys
 This course is for Delphi developers at any level who want to build RESTful services. Users with only a basic knowledge of Delphi will be able to design their own RESTful services and build a fully developed delivery services system by the end.
 ### Technical Requirements
 This course has the following software requirements:<br/>
-This course has the following software requirements:
-●	Operating system: Windows 7 – Windows 10 1 (32-bit or 64-bit)
-●	MS SQL express
-●	Delphi Berlin 10.2 enterprise or architect or trial versions
+●	Operating system: Windows 7 – Windows 10 1 (32-bit or 64-bit)</br>
+●	MS SQL express</br>
+●	Delphi Berlin 10.2 enterprise or architect or trial versions</br>
 
 
 ## Related Products
